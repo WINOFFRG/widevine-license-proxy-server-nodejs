@@ -1,0 +1,30 @@
+{
+  "name": "widevine-license-proxy-server-nodejs",
+  "version": "1.0.0",
+  "description": "Create a reverse proxy licensing server in NodeJS using Express and attach addons like API Rate Limiting, Authentication/Authorization and a lot more.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WINOFFRG/widevine-license-proxy-server-nodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Widevine",
+    "Proxy",
+    "Server"
+  ],
+  "author": "@WINOFFRG (Rohan Gupta)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WINOFFRG/widevine-license-proxy-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/WINOFFRG/widevine-license-proxy-server-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
