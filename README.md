@@ -1,0 +1,1 @@
+Licensing Servers are the building blocks in streaming digitally protected media content. When the player receives the Encrypted stream it then asks the licensing server for the keys of the encrypted media which is processed by CDM (Content Decryption Module) and used to play the video securely in the application.

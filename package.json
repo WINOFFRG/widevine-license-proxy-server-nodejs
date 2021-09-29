@@ -4,7 +4,7 @@
   "description": "Create a reverse proxy licensing server in NodeJS using Express and attach addons like API Rate Limiting, Authentication/Authorization and a lot more.",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
